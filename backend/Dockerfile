@@ -1,6 +1,5 @@
 FROM scratch
 ADD alpine-minirootfs-3.11.12-x86_64.tar.gz  /
-RUN dir
 EXPOSE 8000
 RUN apk add --update python3 python3-dev py3-pip build-base
 COPY . /backend
