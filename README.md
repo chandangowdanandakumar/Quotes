@@ -2,7 +2,7 @@
 This  Web Application uses Docker Containerization : Angular for frontend, Django for Backend.
 
 
-# Running this Application
+## Running this Application
 
 `git clone https://github.com/chandangowdanandakumar/Quotes.git`
 
